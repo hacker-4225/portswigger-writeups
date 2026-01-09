@@ -1,1 +1,7 @@
-
+# sql-injection 
+This folder contaains my learning notes and lab writeups from polrtswigger web security academy.
+## topics covered
+login bypass
+union based SQL injection
+blind SQL injection 
+error based SQL injection
